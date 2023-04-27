@@ -10,3 +10,6 @@
  - Summarizer of webpages
  - stores previous summaries
  
+ 
+ 
+ The website is deployed on => https://spiffy-lamington-3ec2b9.netlify.app/
