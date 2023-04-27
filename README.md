@@ -1,16 +1,40 @@
-# Sumzz
-## AI based web App
-Description- In the era where the attention carries most importance more than even, we all love to save time, go through the headlines of newpaper. That's when the AI summarizer comes in handy, it gives you the summary of a website provided that you have to input the URL to the website and in return the AI Summarizer will give you the summary of that website.
-In the backend we are using the OpenAI's GPT (ChatGPT is an artificial intelligence chatbot developed by OpenAI) model.
- 
+👋 Welcome to SummarAIze! 👀
 
- 
- ### featurs of AI Summarizer: 
- - Modern User Interface
- - Connection to OpenAI's model
- - Integration of RTK
- - Copy to clipboard
- - Browser history storage
+SummarAIze is a web application that uses OpenAI's GPT to summarize websites for you. 🤖💻
+
+💡 How it works:
+1. Enter the URL of the website you want to summarize
+2. Select the length of the summary you want
+3. Click on "Summarize"
+
+🎉 Voila! You'll get a summarized version of the website's content. 🎊
+
+🚀 Features:
+- Summarize any website in seconds
+- Choose the length of the summary you want
+- User-friendly interface
+- Fast and reliable
+
+🔧 Technologies used:
+- OpenAI's GPT
+- Python Flask
+- HTML
+- CSS
+
+📝 How to run the application:
+1. Clone this repository
+2. Install the required libraries using pip install -r requirements.txt
+3. Run the app.py file
+4. Open your browser and go to http://localhost:5000/
+
+👨‍💻 Contributions:
+Contributions are always welcome! If you find any bugs or want to add new features, feel free to open a pull request.
+
+📧 Contact:
+If you have any questions or feedback, you can reach out to us at mzealpro@gmail.com
+
+🙏 Thanks:
+We would like to thank OpenAI for providing us with the GPT model and the entire open-source community for making this project possible.
  
  
  
