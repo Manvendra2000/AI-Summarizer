@@ -17,7 +17,10 @@ SummarAIze is a web application that uses OpenAI's GPT to summarize websites for
 
 🔧 Technologies used:
 - OpenAI's GPT
-- Python Flask
+- Javascript
+- Vite
+- TailwindCSS
+- Rapid API
 - HTML
 - CSS
 
